@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.streamliners.codelab.databinding.ActivityMainBinding;
+
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding b;
     int count = 0;
