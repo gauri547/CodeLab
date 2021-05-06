@@ -1,6 +1,6 @@
 # CodeLab
 ## Apk
-[APK](https://github.com/gauri547/Input-Constraints/releases/download/v2/app-debug.apk)
+[APK](https://github.com/gauri547/CodeLab/releases/download/v2/app-debug.apk)
 # Preview of Application
 
 ![image](https://user-images.githubusercontent.com/81371138/116784158-58759900-aab0-11eb-8b67-97f313766fa1.png)
@@ -11,7 +11,7 @@
 
 # ScrollingTest
 ## APK
-[APK](https://github.com/gauri547/Input-Constraints/releases/download/v2/app-debug.apk)
+[APK](https://github.com/gauri547/releases/download/v2/app-debug.apk)
 # Preview of Application
 ![image](https://user-images.githubusercontent.com/81371138/116784289-0f721480-aab1-11eb-97f0-6e4b5206e104.png)
 
